@@ -100,20 +100,6 @@ sales-forecasting-ml/
 
 
 
-
-##  Requirements
-```
-pandas>=1.5.0
-numpy>=1.23.0
-scikit-learn>=1.2.0
-xgboost>=1.7.0
-matplotlib>=3.6.0
-seaborn>=0.12.0
-jupyter>=1.0.0
-```
-
- Automated retraining pipeline
-
 ##  Author
 **Alessandro Valenti Pettino**
 - LinkedIn: www.linkedin.com/in/alessandro-valenti-pettino-b661b4290
