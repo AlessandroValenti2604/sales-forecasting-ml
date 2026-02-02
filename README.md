@@ -233,10 +233,9 @@ models/*.pkl
 Thumbs.db
 
 # Power BI
-*.pbix
-```
+ **Note:** `.pbix` file available on request (contains sensitive data)
 
----
+
 
 ## **STEP 8: Crea la struttura delle cartelle**
 
